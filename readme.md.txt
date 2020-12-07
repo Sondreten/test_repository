@@ -1,6 +1,1 @@
-#testtest
-
-#local
-
-# remote
-
+# Testing print function
